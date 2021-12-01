@@ -87,7 +87,7 @@ main {
 }
 
 .top-bar {
-  padding-top: 20px;
+    padding-top: 7px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
